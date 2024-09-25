@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning a mixture of things
 - 📫 How to reach me: Discord (@mrdragonboi)
 - 😄 Pronouns: He/Him
-- 🏫 I am currently a (teritary education) college student, in my 3rd year.
+- 🏫 I am currently a (tertiary education) college student, in my 3rd year.
 - 🕒 Last updated (dd/mm/yyyy): 25/09/2024
 
 AAAAAAND that's probably it for stuff about me. Anyways, be sure to check out my repositories. Thanks!
