@@ -1,11 +1,11 @@
 ### Hello there! 👋
 
-- 🔭 I’m currently working on nothing at the moment, but may do soon 👀
-- 🌱 I’m currently learning IT in Business as well as English.
-- 📫 How to reach me: Discord (mrdragonboi; **must** be in a mutual server with me)
+- 🔭 I’m currently working on nothing at the moment.
+- 🌱 I’m currently learning a mixture of things
+- 📫 How to reach me: Discord (@mrdragonboi)
 - 😄 Pronouns: He/Him
-- 🏫 I am currently a college student, therefore I am busy at Monday - Wednesday & Friday.
-- 🕒 Last updated (dd/mm/yyyy; checkmate Americans): 27/11/2023 (return of me folks! <o/)
+- 🏫 I am currently a (teritary education) college student, in my 3rd year.
+- 🕒 Last updated (dd/mm/yyyy): 25/09/2024
 
 AAAAAAND that's probably it for stuff about me. Anyways, be sure to check out my repositories. Thanks!
 
