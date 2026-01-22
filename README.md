@@ -1,8 +1,8 @@
 ### Hello there! 👋
 
-- 🔭 I’m currently figuring out on what to work on at the moment.
-- 🌱 I’m currently learning what to do in terms of my future in IT.
-- 📫 How to reach me: Discord (@mrdragonboi, friend requests are locked to Friends of Friends only)
+- 🔭 I’m currently not working on any projects right now.
+- 🌱 I’m currently learning how to create programs in different languages at college.
+- 📫 How to reach me: You can email me if you want to, although do be aware that I will not always be able to reply, so be aware of such. You can talk to me on Discord as well; @mrdragonboi is my username, although this is more for informal/casual stuff.
 - 😄 Pronouns: He/Him
-- 🏫 I am currently a further education college student, although I have finished my 3rd year and will likely start in September for a two-year course.
-- 🕒 Last updated (dd/mm/yyyy): 17/06/2025
+- 🏫 I am currently a further education college student currently studying a T Level in Software Development, although I have personal things to tend to as well.
+- 🕒 Last updated (dd/mm/yyyy): 22/01/2026
